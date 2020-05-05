@@ -1,0 +1,37 @@
+
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lavender; 
+}
+
+.navbar{
+    background-color: navy;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.centre{
+    text-align: center;
+    padding: 15px;
+}
+
+.bold{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.background-color{
+    background-color:turquoise;
+}
+
+footer{
+    background-color: navy; 
+    color: lavender
+}
